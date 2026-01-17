@@ -1,0 +1,5 @@
+QA Documentation is most important thing to be taken care
+
+With the help of the documentation only, we can get to know what can be done for the project
+
+Test Planning and Strategy will be defined appropriately
