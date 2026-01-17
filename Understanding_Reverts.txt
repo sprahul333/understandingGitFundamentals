@@ -1,1 +1,0 @@
-New Reversts of commits and understanding why we use it
