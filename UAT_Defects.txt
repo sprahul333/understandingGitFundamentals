@@ -1,0 +1,5 @@
+Understanding the issues of what the custoemrs are facing currently
+
+Identifying the P0, P1 and p2 issues accordingly
+
+Please look into it and fix the defects
