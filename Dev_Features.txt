@@ -1,0 +1,5 @@
+Understanding the features of the development related projects
+
+Adding more lines of code for better functionality
+
+Better practices leads to better applications
