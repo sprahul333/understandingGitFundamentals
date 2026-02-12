@@ -1,2 +1,4 @@
 This is the first set of information that we are going through
 We are here to understand the concepts of git
+
+This is the second set of information
