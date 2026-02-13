@@ -1,4 +1,7 @@
 Write some information about the new development project
 Write some lines of code that needs to be executed
 
+
 At the same time we need to worry about code security and integrity
+AT this particular line of code we need to update more information
+Certain lines of code needs to be automatied
